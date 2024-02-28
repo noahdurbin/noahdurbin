@@ -8,4 +8,4 @@ I'm Noah, a soon to be Software Engineer currently living in Boulder, Colorado
 - 🤝 Connect with me on LinkedIn www.linkedin.com/in/noah-durbin-303a58170
 - 🧗🏼‍♂️ In my free time, I like to climb rocks, roast and brew coffee, and take pictures
 
-Let me know i you have any questions, happy to connect!
+Let me know if you have any questions, happy to connect!
