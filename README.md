@@ -1,4 +1,4 @@
-# Hi there, I'm Noah Durbin! 👋
+# Hi there, I'm Noah Durbin!
 
 I'm a backend developer based in Boulder, Colorado. I have experience working in ruby on rails but am excited about learning new and different technologies as well
 
