@@ -2,20 +2,14 @@
 
 I'm a backend developer based in Boulder, Colorado. I have experience working in ruby on rails but am excited about learning new and different technologies as well
 
-## 🚀 Skills
-
-- **Languages/Frameworks**: Ruby, SQL, Rails, HTML, CSS
-- **Tools**: Git, Docker, RSpec, FactoryBot, Capybara, Bootstrap
-- **Learning**: Go, Javascript
-
-## 🌟 Projects
+## Highlights
 
 Here are a couple projects I'm proud of:
 
 - [CodeSnacks](https://github.com/CodingOnTheJohn) - Codesnacks is a rails web app to pick up coding knowledge in small, digestible "Snacks." 
 - [RailsEngine](https://github.com/noahdurbin/rails_engine) - Rails Engine is a Ruby on Rails API that provides endpoints for managing merchants and items in an e-commerce platform.
 
-## 🏞️ Hobbies
+## Hobbies
 
 When I'm not coding, you can find me:
 
