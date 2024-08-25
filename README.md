@@ -17,9 +17,5 @@ When I'm not coding, you can find me:
 - Climbing the local crags
 - Obsessing over my pour over in the morning
 
-## Get in Touch
-
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/noahdurbin/) or [X](https://www.x.com/durbinnoah).
-
-Thanks for visiting my profile! Let's connect and collaborate!
 
