@@ -1,4 +1,4 @@
-# Hi there, I'm Noah
+# Hi, I'm Noah
 
 I'm a backend developer based in Boulder, Colorado. 
 
