@@ -1,6 +1,6 @@
 # Hi, I'm Noah
 
-I'm a backend developer based in Boulder, Colorado. 
+I'm a software engineer based in Boulder, Colorado. 
 
 ## Highlights
 
