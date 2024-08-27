@@ -1,8 +1,6 @@
 # Hi, I'm Noah
 
-I'm a software engineer based in Boulder, Colorado. 
-
-## Highlights
+I'm a software engineer based in Boulder, Colorado.
 
 Here are a couple projects I'm proud of:
 
