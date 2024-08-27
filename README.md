@@ -8,5 +8,6 @@ Here are a couple projects I'm proud of:
 - [RailsEngine](https://github.com/noahdurbin/rails_engine) - Rails Engine is a Ruby on Rails API that provides endpoints for managing merchants and items in an e-commerce platform.
 
 I would love to contribute to open source, let me know if theres anything I can help out with!
+
 [LinkedIn](https://www.linkedin.com/in/noahdurbin/) [X](https://www.x.com/durbinnoah).
 
