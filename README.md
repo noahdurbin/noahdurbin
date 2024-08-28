@@ -9,5 +9,3 @@ Here are a couple projects I'm proud of:
 
 I would love to contribute to open source, let me know if theres anything I can help out with!
 
-[LinkedIn](https://www.linkedin.com/in/noahdurbin/) [X](https://www.x.com/durbinnoah).
-
