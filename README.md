@@ -15,7 +15,7 @@ Feel free to check out my [site](https://noahdurbin.github.io), add me on [linke
 ![HTML5](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF8000?style=for-the-badge&logo=css3&logoColor=white)
 
-## Testing Tools
+## Testing
 ![RSpec](https://img.shields.io/badge/RSpec-FFA07A?style=for-the-badge&logo=ruby&logoColor=white)
 ![ShouldaMatchers](https://img.shields.io/badge/ShouldaMatchers-FF9966?style=for-the-badge&logo=ruby&logoColor=white)
 ![Capybara](https://img.shields.io/badge/Capybara-FF8C00?style=for-the-badge&logo=ruby&logoColor=white)
@@ -25,7 +25,7 @@ Feel free to check out my [site](https://noahdurbin.github.io), add me on [linke
 ![Docker](https://img.shields.io/badge/Docker-FFA500?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-FF7518?style=for-the-badge&logo=heroku&logoColor=white)
 
-## tools
+## Tools
 ![Neovim](https://img.shields.io/badge/Neovim-FF8833?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF7F24?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FF6103?style=for-the-badge&logo=github&logoColor=white)
