@@ -32,7 +32,7 @@ Feel free to check out my [site](https://noahdurbin.github.io), browse my repos 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF7700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA4SDR2Mi41aDEuOHYyLjVIMnYyLjVoMy44djIuNUgyMHYtMi41aC0xLjh2LTIuNUgyMFY4em0tMy44IDUuOGgtMi41djIuNGgtMi41di0yLjRINy41di0yLjNoMTEuMnYyLjN6Ii8+PC9zdmc+&logoColor=white)
 
-## Exploring
+## Learning
 ![Go](https://img.shields.io/badge/Go-FF9933?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-FF7043?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF8C69?style=for-the-badge&logo=react&logoColor=white)
